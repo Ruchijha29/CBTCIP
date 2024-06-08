@@ -1,2 +1,2 @@
 # CBTCIP
-Cypherbyte internship projects
+Cipherbyte internship projects for web development
